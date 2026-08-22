@@ -1,0 +1,5 @@
+com\mycompany\hospital_management_console\Ward_Manager.class
+com\mycompany\hospital_management_console\Patient_Category.class
+com\mycompany\hospital_management_console\Patient_Management.class
+com\mycompany\hospital_management_console\Bed_Allocation.class
+com\mycompany\hospital_management_console\Hospital_Management_Console.class
