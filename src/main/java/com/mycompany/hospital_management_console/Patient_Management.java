@@ -1,4 +1,4 @@
-package com.mycompany.hospital_management_console;
+package com.mycompany.hospital_management_console; 
 //Parent class
 /**
  *
