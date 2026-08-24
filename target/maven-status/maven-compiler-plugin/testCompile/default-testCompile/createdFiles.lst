@@ -1,3 +1,2 @@
-com\mycompany\hospital_management_console\TestClass.class
-com\mycompany\hospital_management_console\TestClass$Hospital_Test.class
-NewEmptyJUnitTest.class
+TestClass$Hospital_Test.class
+TestClass.class

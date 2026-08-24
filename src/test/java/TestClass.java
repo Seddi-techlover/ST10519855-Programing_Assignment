@@ -1,4 +1,4 @@
-package com.mycompany.hospital_management_console;
+
 import com.mycompany.hospital_management_console.Patient_Category;
 import com.mycompany.hospital_management_console.Patient_Management;
 import com.mycompany.hospital_management_console.Ward_Manager;
@@ -27,8 +27,6 @@ public class TestClass {
         manager = new Ward_Manager();
     }
 
-    // --- PLACE YOUR TEST METHODS HERE (INSIDE CLASS BODY) ---
-
     @Test
     public void testAddPatient() {
         Patient_Management patient = new Patient_Management(
@@ -53,10 +51,7 @@ public class TestClass {
     public void testFindPatientById_NotFound() {
         Patient_Management patient = manager.findPatientById("P999");
         assertNull(patient, "Non-existent patient ID should return null");
-    }
+     }
 
-} 
-    
-   
-    
+   } 
 }
