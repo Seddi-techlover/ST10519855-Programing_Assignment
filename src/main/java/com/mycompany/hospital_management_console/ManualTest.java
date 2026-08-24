@@ -4,6 +4,7 @@ package com.mycompany.hospital_management_console;
  * Manual test class — exercises Ward_Manager's public methods
  * by hand and prints PASS/FAIL for each check.
  * Not JUnit — just a runnable class with a main() method.
+ * also my test class would not conduct any tests hence this manual test
  */
 public class ManualTest {
 
